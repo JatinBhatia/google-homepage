@@ -1,4 +1,4 @@
 google-homepage
 ===============
 
-Clone og Google Homepage
+Clone of Google Homepage
